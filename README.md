@@ -12,8 +12,8 @@ This included:
 - and so much more! 
 
 ## Screenshots of Website
-![Coding-Challenge-1-Screenshot-1](./screenshots/screenshot-1.png)
-![Coding-Challenge-1-Screenshot-2](./screenshots/screenshot-2.png)
+![Coding-Challenge-1-Screenshot-1](./screenshots/screenshot-1-updated.png)
+![Coding-Challenge-1-Screenshot-2](./screenshots/screenshot-2-updated.png)
 
 ## Link to Deployed Application
 [Count reFracual](https://j0j0c0ding.github.io/Count-reFracula/)
